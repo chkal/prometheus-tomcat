@@ -5,7 +5,7 @@
 
   <groupId>de.chkal.prometheus.tomcat</groupId>
   <artifactId>prometheus-tomcat</artifactId>
-  <version>1.0.0</version>
+  <version>1.1.0-SNAPSHOT</version>
 
   <name>Prometheus Tomcat</name>
   <description>Prometheus Java collector for Apache Tomcat</description>
